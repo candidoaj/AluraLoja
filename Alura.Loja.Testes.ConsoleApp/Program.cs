@@ -65,6 +65,8 @@ namespace Alura.Loja.Testes.ConsoleApp
             }
         }
 
+        
+
         private static void GravarUsandoEntity()
         {
             Produto p = new Produto();
